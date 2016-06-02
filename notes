@@ -1,0 +1,17 @@
+----write function to deal with image smoothing on all browsers
+----write sprite switching routine for objects
+
+
+image->sprite->gameObject->room->game
+
+image->background->room->game
+
+image->map->room->game
+
+image is the bitmap resource itself
+
+there's no good reason that code should not be written in such a way that 
+it's function is dead obvious.
+
+it's silly to incorporate a whole framework to save yourself from writting
+three lines of code.
