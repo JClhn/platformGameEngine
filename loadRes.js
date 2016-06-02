@@ -19,6 +19,6 @@ var loadImages = function(){
 	images.bg1Image.onload = function () {
 	resourcesLoaded++;
 	};
-	images.bg1Image.src = "images/background.png";
+	images.bg1Image.src = "images/factoryTiles1.png";
 };
 	
